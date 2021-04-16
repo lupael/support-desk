@@ -1,0 +1,103 @@
+de:
+  subscriptions:
+    upgrade: Upgrade
+    tabs:
+      - Tarife
+      - Transaktionsverlauf
+    features:
+      Segments:
+        title: Segmente
+        description: true
+        upgrade_message: Kontaktsegmente und Zielgruppe aktivieren
+      Leads:
+        title: Leads
+        description: true
+        upgrade_message: Hol dir externe Apps, viele viele Apps
+      AppUsers:
+        title: App-Benutzer
+        description: true
+        upgrade_message: Hol dir externe Apps, viele viele Apps
+      Conversations:
+        title: Unterhaltungen
+        description: true
+        upgrade_message: Unterhaltungen aktivieren
+      BotTasks:
+        title: BotTasks
+        description: true
+        upgrade_message: Automatische Chatflows zu Ihrer App hinzufügen
+      Integrations:
+        title: Integrationen
+        description: true
+        upgrade_message: Hol dir externe Apps, viele viele Apps
+      Campaigns:
+        title: Kampagnen
+        active: false
+        upgrade_message: Holen Sie sich ausgehende Nachrichten, Newsletter und Touren!
+      Tours:
+        title: Touren
+        description: true
+        upgrade_message: Holen Sie sich ausgehende Nachrichten, Newsletter und Touren!
+      UserAutoMessages:
+        title: BenutzerAutonachrichten
+        description: true
+        upgrade_message: Holen Sie sich ausgehende Nachrichten, Newsletter und Touren!
+      OutgoingWebhooks:
+        title: AusgehendeWebhooks
+        active: false
+        upgrade_message: Ausgehende Webhooks aktivieren
+      OauthApplications:
+        title: OauthAnwendungen
+        description: true
+        upgrade_message: Unterstützung für API-Zugang über OAUTH aktivieren
+      Articles:
+        title: Beiträge
+        active: false
+        upgrade_message: Dokumentations- und Hilfe-Center aktivieren
+      QuickReplies:
+        title: Schnellantworten
+        description: true
+        upgrade_message: füge Schnellantworten zu deinen Unterhaltungen hinzu
+      CustomAttributes:
+        title: Eigene Attribute
+        upgrade_message: Eigene Attribute aktivieren
+    plans:
+      - 
+        name: "kostenlos"
+        description: Dies ist ein Frebie-Plan!
+        id: 618560
+      - 
+        name: "Neuling"
+        description: Das ist das einfache Paket
+        id: 616249
+      - 
+        name: "Super"
+        id: 596123
+        description: Dies ist das Super Packet
+    plan:
+      included: Was beinhaltet ist
+      pay_by: Zahlung durch %{billing_type}
+      trial_days: Probieren Sie diesen Tarif kostenlos für <span class="font-bold"> %{trial_days} Tage </span>
+      get_access: Zugang erhalten
+    alerts:
+      subscription_updated:
+        title: Abonnement aktualisiert
+        desc: Das Abonnement wurde erfolgreich aktualisiert, Sie erhalten eine E-Mail-Benachrichtigung
+      subscription_created:
+        title: Abo erstellt
+        desc: Das Abonnement wurde erfolgreich erstellt. Sie werden bald eine Quittung erhalten
+      subscription_cancelled:
+        title: Abonnement gekündigt
+        desc: Das Abonnement wurde gekündigt
+      close: Schließe diesen Dialog
+    billing_information:
+      title: Abrechnungsdaten
+      description: Sie verwenden derzeit das "%{plan_name}" Abo.
+      next_billing: Nächste Rechnung am %{next_payment_date} für $%{next_payment_amount} %{next_payment_currency}
+      cancel_plan: Abo kündigen
+      update_payment_method: Zahlungsart aktualisieren
+      subscription_state: Status des Abonnements %{state}
+    update_subscription:
+      cta: Abonnement aktualisieren
+      billed_on: Sie erhalten jeden <span class="font-bold"> %{billing_period} %{billing_type} </span> eine Rechnung
+      amount: Mit dem Betrag von <span class="font-bold">$ %{recurring_price} USD</span>
+      next_payment: Die nächste Zahlung wird am <span class="font-bold">%{next_payment_date}</span> fällig
