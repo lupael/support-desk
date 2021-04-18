@@ -22,7 +22,7 @@
 
 <br/>
 
-<a href="https://heroku.com/deploy?template=https://github.com/chaskiq/chaskiq/tree/master" alt="Deploy to Heroku">
+<a href="https://heroku.com/deploy?template=https://github.com/lupael/support-desk/tree/master" alt="Deploy to Heroku">
     <img alt="Deploy" src="https://www.herokucdn.com/deploy/button.svg"/>
 </a>
 
@@ -52,7 +52,6 @@
 
 And many features to come
 
-To learn more about the philosophy and goals of the project, [visit **chaskiq.io**](https://www.chaskiq.io).
 
 
 ### Embeddable WebChat:
@@ -122,16 +121,16 @@ Chaskiq is built for the *next* 10 years of the Internet, so our requirements ar
 - [PostgreSQL](https://www.postgresql.org/) &mdash; Our main data store is in Postgres.
 - [Redis](https://redis.io/) &mdash; We use Redis as a cache and for transient data.
 
-Plus *lots* of Ruby Gems, a complete list of which is at [/master/Gemfile](https://github.com/chaskiq/chaskiq/blob/master/Gemfile).
+Plus *lots* of Ruby Gems, a complete list of which is at [/master/Gemfile](https://github.com/lupael/support-desk/blob/master/Gemfile).
 
 ## Contributing
 
 Chaskiq is **100% free** and **open source**. We encourage and support an active, healthy community that
 accepts contributions from the public &ndash; including you!
 
-## The Chaskiq Team
+## Our Team
 
-For a complete list of the many individuals that contributed to the design and implementation of Chaskiq, please refer to [GitHub's list of contributors](https://github.com/chaskiq/chaskiq/contributors).
+For a complete list of the many individuals that contributed to the design and implementation of Chaskiq, please refer to [GitHub's list of contributors](https://github.com/lupael/support-desk/contributors).
 
 ## License
 
@@ -154,5 +153,5 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 ### Commercial license
 
-The commercial license is designed to for you to use Chaskiq in commercial products and applications, without the provisions of the AGPL-3.0-or-later. With the commercial license, your code is kept proprietary, to yourself. See the Chaskiq Commercial License at [chaskiq.io](https://chaskiq.io/commercial-license)
+The commercial license is designed to for you to use Chaskiq in commercial products and applications, without the provisions of the AGPL-3.0-or-later. With the commercial license, your code is kept proprietary, to yourself. See the Chaskiq Commercial License at [i4e.com.bd](https://i4e.com.bd)
 
