@@ -77,7 +77,7 @@ gem 'doorkeeper', '~> 5.4'
 gem 'oauth', '~> 0.5.4'
 gem 'omniauth-oauth2'
 
-gem 'image_processing', '~> 1.2'
+gem 'image_processing', '~> 1.12'
 gem 'sidekiq'
 gem 'sidekiq-cron'
 gem 'webpacker', '~> 5.0'
